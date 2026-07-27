@@ -1,1 +1,19 @@
 
+{
+    "id": 145348389,
+    "name": "jack always eats",
+    "author": "bleepboopbop",
+    "creators": ["bleepboopbop"],
+    "verifier": "bleepboopbop",
+    "verification": "https://youtu.be/npmCQ4otuAU",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "null",
+            "link": "null",
+            "percent": null,
+            "hz": null
+        }
+    ]
+}
