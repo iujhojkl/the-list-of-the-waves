@@ -1,1 +1,18 @@
-
+{
+    "id": 145836418,
+    "name": "fella spam",
+    "author": "bleepboopbop",
+    "creators": ["bleepboopbop"],
+    "verifier": "bleepboopbop",
+    "verification": "https://youtu.be/AqDTrGIGCto",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "",
+            "link": "null",
+            "percent": null,
+            "hz": null
+        }
+    ]
+}
