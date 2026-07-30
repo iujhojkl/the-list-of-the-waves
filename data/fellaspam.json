@@ -7,12 +7,5 @@
     "verification": "https://youtu.be/AqDTrGIGCto",
     "percentToQualify": 100,
     "password": "Not Copyable",
-    "records": [
-        {
-            "user": null,
-            "link": null,
-            "percent": null,
-            "hz": null
-        }
-    ]
+    "records": []
 }
