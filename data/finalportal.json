@@ -7,5 +7,12 @@
     "verification": "https://medal.tv/games/geometry-dash/clips/ndpgW7r7Mmx-SVPK7?invite=cr-MSxNdDgsNjI5OTQ2MTIx",
     "percentToQualify": 100,
     "password": "Not Copyable",
-    "records": []
+    "records": [
+        {
+            "user": "bleepboopbop",
+            "link": "https://youtu.be/bYDQR5oD9Vg",
+            "percent": 100,
+            "hz": "CBF"
+        }
+    ]
 }
