@@ -124,7 +124,10 @@ export default {
                         Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
                     </p>
                     <p>
-                        A level must consist of mainly wave. Other levels are allowed
+                        A level must consist of mainly wave. Other gamemodes are allowed, but they must not be the primary focus or difficulty in the level
+                    </p>
+                    <p>
+                        Cheat indicator must be active if using Eclipse, Megahack etc.
                     </p>
                 </div>
             </div>
