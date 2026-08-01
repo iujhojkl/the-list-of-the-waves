@@ -2,10 +2,19 @@
     "id": 145782942,
     "name": "jack always eats",
     "author": "bleepboopbop",
-    "creators": ["bleepboopbop"],
+    "creators": [
+        "bleepboopbop"
+    ],
     "verifier": "bleepboopbop",
     "verification": "https://youtu.be/npmCQ4otuAU",
     "percentToQualify": 100,
     "password": "Not Copyable",
-    "records": []
+    "records": [
+        {
+            "user": "MrBazooka",
+            "link": "https://medal.tv/games/geometry-dash/clips/neuEB0SM2fDPmHwPH?invite=cr-MSxYSlgsMzc5MDEwMTE2",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
 }
