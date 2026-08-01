@@ -2,7 +2,9 @@
     "id": 145940480,
     "name": "final portal",
     "author": "HurryingJackM",
-    "creators": ["HurryingJackM"],
+    "creators": [
+        "HurryingJackM"
+    ],
     "verifier": "HurryingJackM",
     "verification": "https://medal.tv/games/geometry-dash/clips/ndpgW7r7Mmx-SVPK7?invite=cr-MSxNdDgsNjI5OTQ2MTIx",
     "percentToQualify": 100,
@@ -13,6 +15,12 @@
             "link": "https://youtu.be/bYDQR5oD9Vg",
             "percent": 100,
             "hz": "CBF "
+        },
+        {
+            "user": "MrBazooka",
+            "link": "https://medal.tv/games/geometry-dash/clips/nevYmCJNii1O60LYe?invite=cr-MSxZS1gsMzc5MDEwMTE2",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
