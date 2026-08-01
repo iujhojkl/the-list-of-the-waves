@@ -2,10 +2,19 @@
     "id": 145836418,
     "name": "fella spam",
     "author": "bleepboopbop",
-    "creators": ["bleepboopbop"],
+    "creators": [
+        "bleepboopbop"
+    ],
     "verifier": "bleepboopbop",
     "verification": "https://youtu.be/AqDTrGIGCto",
     "percentToQualify": 100,
     "password": "Not Copyable",
-    "records": []
+    "records": [
+        {
+            "user": "MrBazooka",
+            "link": "https://medal.tv/games/geometry-dash/clips/neuA7YnOYDFqUHi3m?invite=cr-MSxmcjEsMzc5MDEwMTE2",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
 }
