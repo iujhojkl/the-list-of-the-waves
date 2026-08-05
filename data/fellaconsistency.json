@@ -9,5 +9,12 @@
     "verification": "https://youtu.be/yY_5oRNOHF8",
     "percentToQualify": 100,
     "password": "Not Copyable",
-    "records": []
+    "records": [
+        {
+            "user": "MrBazooka",
+            "link": "https://medal.tv/games/geometry-dash/clips/nfeiphmgcT_H7ZkWc?invite=cr-MSxoY2gsMzc5MDEwMTE2",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
 }
