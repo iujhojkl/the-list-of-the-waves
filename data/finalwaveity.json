@@ -1,26 +1,32 @@
 {
-  "id": 145928538,
-  "name": "final waveity",
-  "author": "bleepboopbop",
-  "creators": [
-    "bleepboopbop"
-  ],
-  "verifier": "bleepboopbop",
-  "verification": "https://youtu.be/-dfhr71LsVM",
-  "percentToQualify": 100,
-  "password": "Not Copyable",
-  "records": [
-    {
-      "user": "HurryingJackM",
-      "link": "https://medal.tv/games/geometry-dash/clips/ndIZU0ywGKRT484Pf?invite=cr-MSxxVjcsNjI5OTQ2MTIx",
-      "percent": 100,
-      "hz": 75
-    },
-    {
-      "user": "MrBazooka",
-      "link": "https://medal.tv/games/geometry-dash/clips/neuYT355QRYBE5ifu?invite=cr-MSxEZTYsMzc5MDEwMTE2",
-      "percent": 100,
-      "hz": 60
-    }
-  ]
+    "id": 145928538,
+    "name": "final waveity",
+    "author": "bleepboopbop",
+    "creators": [
+        "bleepboopbop"
+    ],
+    "verifier": "bleepboopbop",
+    "verification": "https://youtu.be/-dfhr71LsVM",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "HurryingJackM",
+            "link": "https://medal.tv/games/geometry-dash/clips/ndIZU0ywGKRT484Pf?invite=cr-MSxxVjcsNjI5OTQ2MTIx",
+            "percent": 100,
+            "hz": 75
+        },
+        {
+            "user": "MrBazooka",
+            "link": "https://medal.tv/games/geometry-dash/clips/neuYT355QRYBE5ifu?invite=cr-MSxEZTYsMzc5MDEwMTE2",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "JestyyCAt",
+            "link": "https://youtu.be/RFxY34HIME4",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
 }
