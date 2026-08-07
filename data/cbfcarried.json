@@ -9,5 +9,12 @@
     "verification": "https://youtu.be/L963ggY10Jg",
     "percentToQualify": 100,
     "password": "Not Copyable",
-    "records": []
+    "records": [
+        {
+            "user": "JestyyCAt",
+            "link": "https://youtu.be/RFxY34HIME4",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
 }
