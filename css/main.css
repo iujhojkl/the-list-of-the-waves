@@ -14,7 +14,17 @@
     --transition: 0.2s ease;
 }
 
-/* Theme Switching */
+/* Global Reset for Media Elements */
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+img, svg {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
 body.dark,
 header.dark,
 main.dark {
@@ -44,14 +54,14 @@ body {
     color: var(--color-on-background);
 }
 
-/* Base Header Layout preserved from your original code */
+/* Header Container */
 header {
     display: flex;
+    align-items: center;
     padding-inline: calc(25vw - 10rem);
     height: 4rem;
     background-color: var(--color-primary);
     color: var(--color-on-primary);
-    align-items: center;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
 }
 
@@ -64,7 +74,6 @@ header {
     }
 }
 
-/* Header Elements Styling */
 header .logo {
     justify-self: end;
     align-self: center;
@@ -98,7 +107,12 @@ header .nav {
     padding-right: 1.5rem;
 }
 
-/* Navigation Links Modern Active/Hover States */
+.nav__links {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
 .nav__tab {
     padding: 0.4rem 0.8rem;
     color: rgba(255, 255, 255, 0.85);
@@ -139,6 +153,8 @@ header .nav {
 .nav__icon img {
     width: 1.25rem;
     height: 1.25rem;
+    max-width: 1.25rem;
+    max-height: 1.25rem;
 }
 
 .nav__icon:hover {
@@ -160,7 +176,7 @@ header .nav {
     transform: translateY(-1px);
 }
 
-/* 3-Column Layout Preserved */
+/* Grid Layout Framework */
 main {
     height: 0;
     flex: 1;
