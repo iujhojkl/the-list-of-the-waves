@@ -8,12 +8,13 @@
     --color-error: #de0000;
     --color-on-error: #ffffff;
     
-    --font-sans: 'Lexend Deca', sans-serif;
+    --font-sans: 'Lexend Deca', system-ui, -apple-system, sans-serif;
     --radius-sm: 6px;
     --radius-full: 9999px;
     --transition: 0.2s ease;
 }
 
+/* Theme Switching */
 body.dark,
 header.dark,
 main.dark {
@@ -25,9 +26,12 @@ main.dark {
     --color-primary: #006D5B;
     --color-primary-disabled: #1f213c;
     --color-on-primary: #ffffff;
+    --color-error: #de0000;
+    --color-on-error: #ffffff;
 }
 
-html, body {
+html,
+body {
     height: 100%;
 }
 
@@ -40,14 +44,14 @@ body {
     color: var(--color-on-background);
 }
 
-/* Header & Grid Alignment */
+/* Base Header Layout preserved from your original code */
 header {
     display: flex;
-    align-items: center;
     padding-inline: calc(25vw - 10rem);
     height: 4rem;
     background-color: var(--color-primary);
     color: var(--color-on-primary);
+    align-items: center;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
 }
 
@@ -60,6 +64,7 @@ header {
     }
 }
 
+/* Header Elements Styling */
 header .logo {
     justify-self: end;
     align-self: center;
@@ -72,15 +77,17 @@ header .logo h2 {
     margin: 0;
     font-size: 1.125rem;
     font-weight: 700;
+    line-height: 1;
 }
 
 header .logo p {
     margin: 0;
     font-size: 0.75rem;
-    opacity: 0.8;
+    opacity: 0.85;
     background: rgba(255, 255, 255, 0.2);
     padding: 0.1rem 0.4rem;
     border-radius: var(--radius-full);
+    line-height: 1;
 }
 
 header .nav {
@@ -91,18 +98,11 @@ header .nav {
     padding-right: 1.5rem;
 }
 
-.nav__links {
-    display: flex;
-    align-items: center;
-    gap: 0.5rem;
-}
-
+/* Navigation Links Modern Active/Hover States */
 .nav__tab {
     padding: 0.4rem 0.8rem;
     color: rgba(255, 255, 255, 0.85);
     text-decoration: none;
-    font-size: 0.875rem;
-    font-weight: 500;
     border-radius: var(--radius-sm);
     transition: background-color var(--transition), color var(--transition);
 }
@@ -123,7 +123,7 @@ header .nav {
     gap: 0.5rem;
 }
 
-.icon-btn {
+.nav__icon {
     display: inline-flex;
     align-items: center;
     justify-content: center;
@@ -136,32 +136,31 @@ header .nav {
     transition: background-color var(--transition);
 }
 
-.icon-btn img {
+.nav__icon img {
     width: 1.25rem;
     height: 1.25rem;
 }
 
-.icon-btn:hover {
+.nav__icon:hover {
     background-color: rgba(255, 255, 255, 0.15);
 }
 
-.btn-cta {
+.nav__cta {
     background-color: #ffffff;
     color: var(--color-primary);
     padding: 0.4rem 0.85rem;
-    font-size: 0.875rem;
-    font-weight: 600;
     text-decoration: none;
     border-radius: var(--radius-sm);
+    font-weight: 600;
     transition: transform var(--transition), background-color var(--transition);
 }
 
-.btn-cta:hover {
+.nav__cta:hover {
     background-color: rgba(255, 255, 255, 0.9);
     transform: translateY(-1px);
 }
 
-/* Main Routing View Grid */
+/* 3-Column Layout Preserved */
 main {
     height: 0;
     flex: 1;
@@ -182,4 +181,11 @@ main > div {
     align-items: center;
     justify-content: center;
     grid-column: span 3;
+}
+
+input[type="checkbox"] {
+    height: 1.25rem;
+    width: 1.25rem;
+    cursor: pointer;
+    margin: 0;
 }
