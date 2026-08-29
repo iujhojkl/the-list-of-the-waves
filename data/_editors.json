@@ -16,8 +16,13 @@
     },
     {
         "role": "trial",
-        "name": "no one so far",
-        "link": "https://www.youtube.com/@Prometheus_Alt"
+        "name": "Mr Bazooka",
+        "link": "null"
+    },
+    {
+        "role": "trial",
+        "name": "Tartarus",
+        "link": "null"
     },
     {
         "role": "dev",
