@@ -8,11 +8,11 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
-    ]
         {
             "user": "MrBazooka",
             "link": "https://youtu.be/FULlcoHHWro",
             "percent": 100,
             "hz": 480
-        }
+        },
+    ]
 }
