@@ -9,16 +9,22 @@
     "password": "Free to Copy",
     "records": [
         {
-        "user": "MrBazooka",
-        "link": "https://medal.tv/games/screen-capture/clips/nnuV7XGdM2ADH0exe?invite=cr-MSxnQ1AsMzc5MDEwMTE2",
-        "percent": 100,
-        "hz": 480
+           "user": "MrBazooka",
+           "link": "https://medal.tv/games/screen-capture/clips/nnuV7XGdM2ADH0exe?invite=cr-MSxnQ1AsMzc5MDEwMTE2",
+           "percent": 100,
+           "hz": 480
         },
         {
             "user": "JestyyCAt",
             "link": "https://youtu.be/ZZ3VLH0sLaw",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "puffiballgd",
+            "link": "https://youtu.be/wHvYSU1_2Io",
+            "percent": 100,
+            "hz": 320
         }
     ]
 }
