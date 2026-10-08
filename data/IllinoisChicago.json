@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "puffiballgd",
+            "link": "https://cdn.discordapp.com/attachments/1532155912859685006/1557752773439660093/MedalTVGeometryDash20261008155219461-trim-1791467563001.mp4?ex=6ac8f1d2&is=6ac7a052&hm=5e4dfff1ad0dac381ed6e93288d29cb002108f257ff7ce590248da9b792769da&",
+            "percent": 100,
+            "hz": 320
+        }
     ]
 }
