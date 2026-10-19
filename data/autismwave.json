@@ -1,14 +1,14 @@
+
 {
-    "id": 145262719,
-    "name": "Autism          Wave",
-    "author": "MrBazooka",
-    "creators": [
-        "MrBazooka"
-    ],
-    "verifier": "MrBazooka",
-    "verification": "https://www.youtube.com/watch?v=MlW_2ZXnB9I",
-    "percentToQualify": "100",
-    "password": "Free To Copy",
-    "records": [
-    ]
+  "id": 145262719,
+  "name": "Autism Wave",
+  "author": "MrBazooka",
+  "creators": [
+    "MrBazooka"
+  ],
+  "verifier": "MrBazooka",
+  "verification": "https://www.youtube.com/watch?v=MlW_2ZXnB9I",
+  "percentToQualify": "100",
+  "password": "Free To Copy",
+  "records": []
 }
