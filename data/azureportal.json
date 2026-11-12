@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "MrBazooka",
+            "link": "https://medal.tv/games/geometry-dash/clips/nUVui4iz97D05lifa?invite=cr-MSxqY1MsMzc5MDEwMTE2",
+            "percent": 100,
+            "hz": 480
+        }
     ]
 }
